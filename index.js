@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-newID = 1000000
+newID = 1000000000 + oldID
